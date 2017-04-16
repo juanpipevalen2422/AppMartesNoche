@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppMartesNoche</string>
+    <string name="buttonText">"Siguiente"</string>
+    <string name="holaMundo">"Hola Mundo"</string>
+</resources>
